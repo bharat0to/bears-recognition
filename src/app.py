@@ -1,6 +1,5 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
-import pytesseract
 import os, logging
 import time
 from utils import get_file_name

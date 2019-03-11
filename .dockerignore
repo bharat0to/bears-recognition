@@ -1,3 +1,7 @@
 *.pth
 Dockerfile
 ./frontend
+
+__pycache__
+src/uploads
+src/debug.logs
